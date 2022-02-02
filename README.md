@@ -1,8 +1,6 @@
 # Simple-ransomware-code
 This is simple code for Ransomware .
 The first Try by Charchit subedi
-
-
       _                    _     _ _               _              _ _ 
   ___| |__   __ _ _ __ ___| |__ (_) |_   ___ _   _| |__   ___  __| (_)
  / __| '_ \ / _` | '__/ __| '_ \| | __| / __| | | | '_ \ / _ \/ _` | |
